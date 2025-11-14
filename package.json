@@ -1,9 +1,9 @@
 {
-  "name": "vite-project",
-  "homepage": "https://Shatrudha.github.io/React-Stopwatch",
-  "private": true,
+  "name": "quotes-project",
   "version": "0.0.0",
+  "private": true,
   "type": "module",
+  "homepage": "https://Shatrudha.github.io/Quotes-Project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -18,10 +18,10 @@
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.0",
     "@eslint/js": "^9.39.1",
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
-    "@vitejs/plugin-react": "^5.1.0",
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
